@@ -4,7 +4,7 @@
 /bin/
 .DS_Store
 gradlew.bat
-gradle/
+#gradle/
 gradlew
 
 ### STS ###
